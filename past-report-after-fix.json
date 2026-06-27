@@ -265,8 +265,8 @@
         "node_modules/npm/node_modules/request/node_modules/bl"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -320,8 +320,8 @@
         "node_modules/zaproxy/node_modules/boom"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -724,8 +724,8 @@
         "node_modules/zaproxy/node_modules/cryptiles"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -1322,8 +1322,8 @@
         "node_modules/zaproxy/node_modules/form-data"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -2104,8 +2104,8 @@
         "node_modules/zaproxy/node_modules/hawk"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -2203,8 +2203,8 @@
         "node_modules/zaproxy/node_modules/hoek"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -2995,8 +2995,8 @@
         "node_modules/zaproxy/node_modules/mime"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -3106,8 +3106,8 @@
         "node_modules/nyc/node_modules/minimatch"
       ],
       "fixAvailable": {
-        "name": "grunt-contrib-watch",
-        "version": "0.4.4",
+        "name": "mocha",
+        "version": "11.7.6",
         "isSemVerMajor": true
       }
     },
@@ -4040,8 +4040,8 @@
         "node_modules/zaproxy/node_modules/qs"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -4179,8 +4179,8 @@
         "node_modules/zaproxy/node_modules/request"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -4434,8 +4434,8 @@
         "node_modules/zaproxy/node_modules/sntp"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -4912,8 +4912,8 @@
         "node_modules/tmp"
       ],
       "fixAvailable": {
-        "name": "selenium-webdriver",
-        "version": "4.45.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -4982,8 +4982,8 @@
         "node_modules/tough-cookie"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -5049,8 +5049,8 @@
         "node_modules/tunnel-agent"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
@@ -5233,8 +5233,8 @@
         "node_modules/uuid"
       ],
       "fixAvailable": {
-        "name": "grunt-retire",
-        "version": "0.1.0",
+        "name": "cypress",
+        "version": "15.18.0",
         "isSemVerMajor": true
       }
     },
